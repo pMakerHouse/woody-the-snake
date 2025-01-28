@@ -2,6 +2,8 @@
 
 Woody is a fun and interactive Discord bot inspired by the Chinese New Year. He’s a friendly snake who uses snake-like phonetics, cracks jokes, and spreads festive joy. Woody responds to mentions in Discord channels and can generate unique replies using AI-powered responses.
 
+This bot was made for the $WOODY coin
+
 ---
 
 ## **Features**
